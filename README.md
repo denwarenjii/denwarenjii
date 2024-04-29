@@ -2,7 +2,7 @@
 - 👀 I’m interested in embedded systems, FPGAs, Unix.
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on
-- 📫 How to reach me cmiranda@caltech.edu
+- 📫 Send me a D-mail at cmiranda@caltech.edu
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
